@@ -1,0 +1,12 @@
+table thead tr {
+  background-color: #E2E6FC;
+}
+
+table tbody tr {
+  background-color: #6E707C;
+  color: white;
+}
+
+table tfoot {
+  background-color: yellow;
+}
